@@ -1,0 +1,90 @@
+{
+  "assets": [
+    {
+      "original_filename": "bill-nye/Bill_Nye_the_Science_Guy_(television_series_logo).png",
+      "shipped_path": "web/public/assets/bill-nye-logo.png",
+      "sha256": "391d21e4bd1afc0d10e746a0bfc4930c918800711a02740d55475413b93db099",
+      "source": "Owner-supplied local main-checkout asset folder, inspected 2026-10-03",
+      "rights": "No separate license or public-release clearance supplied",
+      "usage": "Identity/attribution in the independent private archive viewer"
+    }
+  ],
+  "inspiration": [
+    {
+      "filename": "10914710.jpg",
+      "sha256": "c17c1cc6d5bbb90dc2610842860472899ba2f62ca65750f83c99098baa2ad17e",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "4061066-crtheader.jpg",
+      "sha256": "ead3e5d2e564cd053e1ebb6cb0c04a53f272d1e6b8b206b517563376c62b1d2c",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "42036qjwztw41.webp",
+      "sha256": "f9ead7b35a0cf39a108fb057a68e7fba0872f39fc1fd50eeff917c6fd75d05fc",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "7b5c5839e8799aec3109e5b8f4168b14a54f3ae6.jpg",
+      "sha256": "946e52d3a07289aab9532a5f87d1a12d54d89289024aced8b3294e5bf9e00a1e",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "Bill_Nye_the_Science_Guy_(television_series_logo).png",
+      "sha256": "391d21e4bd1afc0d10e746a0bfc4930c918800711a02740d55475413b93db099",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "IMG_4522.jpeg",
+      "sha256": "857b813e8d09a9d3227708473cdad009b29dd9dcf221c6dc03a9b7393645cd1a",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "Sony-KV-20TS29-20-Trinitron-CRT-Television-Tube-TV-RF-Composite-1993-Televisions_1200x1200.webp",
+      "sha256": "ace24abdc919b971b6ba2f93ec51f3153de99c0f15332b91f13102321e2a23df",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "bill-nye-the-science-guy-5cd5182af000e.png",
+      "sha256": "17feb100ba681f213ba13a6ade1e50b1b211dd0fda62e7ea6728a28be6611d53",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "maxresdefault.jpg",
+      "sha256": "4706733061648f7386dc232b6dd4f630160261ad0da07a5c64df5e7477610194",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "series_14 (1).jpg",
+      "sha256": "be73ebfabaa829c51daa9f7944f048c3693e8035b0861233b92a80f8a6f8b568",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "series_14.jpg",
+      "sha256": "83205b13f732ab7fc86e88049ec3240e9103d588a209e56e2a2b4725f7dead79",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "unnamed (1).jpg",
+      "sha256": "a3f0dfb0397a48117b8060a4b1a13b004f71f5e1ebac4bb4a3d9acbd09619c21",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "unnamed.jpg",
+      "sha256": "a3f0dfb0397a48117b8060a4b1a13b004f71f5e1ebac4bb4a3d9acbd09619c21",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "vofo7hpqj35uzirk2qe3.webp",
+      "sha256": "c8c047e958e68015720e03564af1afe9ddff16a1b3de4a831aefb30a4e8606c0",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    },
+    {
+      "filename": "wp11397686.jpg",
+      "sha256": "c99ef9a30f65bc6446d5dbdd5ec3b80bdf05f5f425e15cbdb4d9ba1639f3ad06",
+      "usage": "Design inspiration; not shipped unless separately listed above"
+    }
+  ],
+  "code_license": "GPL-3.0; does not assign the software license to third-party identity assets"
+}
