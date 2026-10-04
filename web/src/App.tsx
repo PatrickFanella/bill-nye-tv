@@ -1,8 +1,5 @@
+import { useViewer, Compatibility, ChannelPanel, Library, Player } from '@subcult/archive-viewer';
 import { useState } from 'react';
-import { useViewer } from './engine/useViewer';
-import { Compatibility } from './engine/Compatibility';
-import { ChannelPanel, Library } from './engine/Viewer';
-import { Player } from './engine/Player';
 import './base.css';
 import './styles.css';
 
