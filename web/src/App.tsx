@@ -1,6 +1,6 @@
 import { useViewer, Compatibility, ChannelPanel, Library, Player, EpisodeMetadata, videoStateLabel } from '@subcult/archive-viewer';
 import { useState } from 'react';
-import { AccountPanel, ChatPanel, FavoriteAction, FavoriteShelf, VideoTools, useChannelChat, usePersonal, useTheater, useViewerLinks } from './ViewerTools';
+import { AccountPanel, ChatPanel, FavoriteAction, FavoriteShelf, VideoTools, useChannelChat, usePersonal, useTheater, useViewerLinks, useLibraryLayout } from './ViewerTools';
 import './base.css';
 import './styles.css';
 
@@ -9,7 +9,7 @@ function ScienceTV() {
   const [powered, setPowered] = useState(true);
   const [effects, setEffects] = useState(false);
   const { theater, setTheater } = useTheater();
-  const [layout, setLayout] = useState<'grid' | 'table'>('grid');
+  const [layout, setLayout] = useLibraryLayout('bill-nye');
   const [savedOnly, setSavedOnly] = useState(false);
   const personal = usePersonal('bill-nye');
   const chat = useChannelChat('bill-nye', viewer.session, viewer.paused || !powered, personal);
