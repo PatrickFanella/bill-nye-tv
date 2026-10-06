@@ -9,7 +9,7 @@ vi.mock('@subcult/archive-viewer', async importOriginal => {
   return { ...shared,
     Compatibility: ({children}: {children: React.ReactNode}) => children,
     useViewer: () => ({session:null,channel:null,catalog:null,error:'',playError:'',
-      resolving:false,paused:true,mode:'ondemand',key:'',query:'',year:'',page:1,
+      collection:'test',filters:{},setFilters:vi.fn(),playbackState:'paused',onPlaybackState:vi.fn(),resolving:false,paused:true,mode:'ondemand',key:'',query:'',year:'',page:1,
       watch:vi.fn(),tune:vi.fn(),onPaused:vi.fn(),setQuery:vi.fn(),setYear:vi.fn(),setPage:vi.fn()}),
   };
 });
