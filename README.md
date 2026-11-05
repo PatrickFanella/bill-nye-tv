@@ -1,5 +1,7 @@
 # Bill Nye / Science TV
 
+![Bill Nye TV identity](docs/brand/bill-nye-tv/readme-lockup.png)
+
 A standalone episode library and shared scheduled replay channel, built on the
 shared VHNESS engine. This repository owns its frontend, design system, assets,
 and deployment configuration. The viewer adapter and deployment helpers are
@@ -50,3 +52,7 @@ pin. See [public deployment and updates](docs/public-core-deployment.md).
 
 The independent engine release and upgrade procedure is documented in
 [Shared engine release](docs/shared-core-release.md).
+
+## Brand assets
+
+The product identity and selected public exports are recorded in [the brand handoff](docs/brand/bill-nye-tv/GUIDE.md) and [source hashes](docs/brand/bill-nye-tv/export.json). Regenerate from SUBCULT Studio with `python3 studio/scripts/export_remaining_brand.py bill-nye-tv /path/to/this/repository`; use `--check` to verify the export without writing.
